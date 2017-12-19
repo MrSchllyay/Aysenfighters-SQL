@@ -1,3 +1,3 @@
-#MySQL_CRUD_Android Strudio
+#AysenFighters
 
-Linea de Profundización : Actividad con Base de Datos MySQL en Android Studio Editado por William Leonardo Dueñas Mora - 20131049490
+Proyecto hecho por Pablo R. para Inacap
